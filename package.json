@@ -1,6 +1,6 @@
 {
   "name": "@luna-mfe/forms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "Apache-2.0",
   "type": "module",
   "scripts": {
@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/luna-mfe/forms/issues"
   },
-  "homepage": "https://github.com/luna-mfe/forms#readme"
+  "homepage": "https://github.com/luna-mfe/forms#readme",
+  "keywords": [
+    "forms",
+    "microfrontend",
+    "web-components",
+    "form-builder",
+    "vanilla-js",
+    "typescript",
+    "frontend-library",
+    "mfe"
+  ]
 }
