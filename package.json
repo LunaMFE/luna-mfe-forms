@@ -1,6 +1,7 @@
 {
   "name": "@luna-mfe/forms",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "license": "Apache-2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LunaMFE/luna-mfe-forms.git"
+    "url": "git+https://github.com/luna-mfe/forms.git"
   },
   "bugs": {
-    "url": "https://github.com/LunaMFE/luna-mfe-forms/issues"
+    "url": "https://github.com/luna-mfe/forms/issues"
   },
-  "homepage": "https://github.com/LunaMFE/luna-mfe-forms#readme"
+  "homepage": "https://github.com/luna-mfe/forms#readme"
 }
